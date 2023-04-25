@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bienvenida</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="edad">Edad</string>
+    <string name="saludar">Saludar</string>
+    <string name="bienvenido">Bienvenido %s, la edad ingresada es %d</string>
+    <string name="campo_requerido"> campo requerido</string>
+</resources>
